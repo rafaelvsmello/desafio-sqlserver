@@ -1,6 +1,6 @@
-# Dio Desafio SQL Server
+# Desafio SQL Server
 
-Desafio de projeto sobre SQL Server
+Desafio da plataforma DIO sobre SQL Server, o objetivo do desafio é construir um banco de dados utilizando a linguagem SQL
 
 ## Tabela Planetas
 
